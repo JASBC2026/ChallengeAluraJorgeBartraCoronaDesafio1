@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating  since 2023 <br>📚 I'm currently learning  Business intelligence and Análisis de datos con Python <br>🎯 Goals: Seguir aprendiendo todo relacionado al Análisis de datos ,  a la IA ,Las herramientas CAD (Diseño Asistido por Computadora),entre otros in.<br>🎲 Fun fact: Me gusta los deportes y los videos juegos </p>
+<p align="left">✨ Creando conocmientos  since 2016 <br>📚 I'm currently learning  Business intelligence and Análisis de datos con Python <br>🎯 Goals: Seguir aprendiendo todo relacionado al Análisis de datos ,  a la IA ,Las herramientas CAD (Diseño Asistido por Computadora),entre otros .<br>🎲 Fun fact: Me gusta los deportes y los videos juegos </p>
 
 ###
 
